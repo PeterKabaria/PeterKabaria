@@ -1,16 +1,29 @@
-## Hi there 👋
+Software Developer | AI Application Development | Electrical Engineer
 
-<!--
-**PeterKabaria/PeterKabaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of NodeZED LABS
 
-Here are some ideas to get you started:
+I build practical software solutions that combine artificial intelligence, software engineering, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of Focus
+
+AI-powered applications and LLM integrations
+
+Python and backend development
+
+React and TypeScript
+
+API development and workflow automation
+
+Engineering software and technical automation
+
+Featured Projects
+
+AI Forge — AI application and experimentation platform.
+
+Terrain Weaver Pro — Terrain processing and 16-bit heightmap generation tool.
+
+NodeZED Website — React and TypeScript web application with Supabase integration.
+
+Technical Interests
+
+Artificial Intelligence · Large Language Models · Full-Stack Development · Software Automation · Engineering Technology
